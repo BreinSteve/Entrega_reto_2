@@ -476,20 +476,20 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Blue_0: 715964423
-      Blue_12: 2103898951
-      Blue_15: 1361292593
-      Blue_5: 974311075
-      Blue_3: 2121771921
-      Blue_11: -1541281532
-      Blue_6: -978644145
       Blue_1: -1366922397
-      Blue_14: 1250319185
       Blue_10: 79456098
+      Blue_11: -1541281532
+      Blue_12: 2103898951
       Blue_13: 824280645
-      Blue_8: 1082332851
-      Blue_7: -1933481933
+      Blue_14: 1250319185
+      Blue_15: 1361292593
       Blue_2: 545081314
+      Blue_3: 2121771921
       Blue_4: -1000007810
+      Blue_5: 974311075
+      Blue_6: -978644145
+      Blue_7: -1933481933
+      Blue_8: 1082332851
       Blue_9: 1185312878
   spritePackingTag: 
   pSDRemoveMatte: 0

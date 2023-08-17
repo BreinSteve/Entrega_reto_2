@@ -475,21 +475,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Purple_3: -1094328671
-      Purple_2: 2059688709
+      Purple_0: 1402963125
+      Purple_1: -1735589039
+      Purple_10: 110233804
+      Purple_11: 572921110
       Purple_12: 1323154235
       Purple_13: 182098936
-      Purple_4: 900080536
-      Purple_15: -263600800
-      Purple_11: 572921110
-      Purple_5: 201523426
-      Purple_8: 1550293188
-      Purple_7: -201948189
-      Purple_1: -1735589039
-      Purple_0: 1402963125
-      Purple_10: 110233804
       Purple_14: 284667914
+      Purple_15: -263600800
+      Purple_2: 2059688709
+      Purple_3: -1094328671
+      Purple_4: 900080536
+      Purple_5: 201523426
       Purple_6: -167352157
+      Purple_7: -201948189
+      Purple_8: 1550293188
       Purple_9: 797723381
   spritePackingTag: 
   pSDRemoveMatte: 0

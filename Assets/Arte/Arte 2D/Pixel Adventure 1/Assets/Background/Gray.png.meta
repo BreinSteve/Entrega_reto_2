@@ -476,21 +476,21 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Gray_0: 1254147415
-      Gray_4: -1326739190
-      Gray_12: 1410814309
-      Gray_3: -162914539
-      Gray_6: 1831220731
-      Gray_5: 611803584
-      Gray_9: -1937265359
-      Gray_15: 1847423840
-      Gray_7: 1726566806
-      Gray_11: -1018610188
       Gray_1: -823055605
       Gray_10: 2117461758
-      Gray_14: 546024900
-      Gray_2: 461146874
+      Gray_11: -1018610188
+      Gray_12: 1410814309
       Gray_13: -857045368
+      Gray_14: 546024900
+      Gray_15: 1847423840
+      Gray_2: 461146874
+      Gray_3: -162914539
+      Gray_4: -1326739190
+      Gray_5: 611803584
+      Gray_6: 1831220731
+      Gray_7: 1726566806
       Gray_8: -2063948648
+      Gray_9: -1937265359
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

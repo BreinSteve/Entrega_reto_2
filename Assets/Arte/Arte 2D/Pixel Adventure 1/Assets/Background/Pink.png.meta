@@ -475,22 +475,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Pink_10: -1866902767
-      Pink_12: -996472915
-      Pink_4: -541075649
-      Pink_15: 1347574422
-      Pink_3: -209489549
-      Pink_5: -1000683584
-      Pink_11: -698031770
-      Pink_2: 275432147
-      Pink_14: -171568881
-      Pink_8: 1780948796
-      Pink_13: 1011685956
-      Pink_9: 82084019
-      Pink_1: -489735133
       Pink_0: 834348106
+      Pink_1: -489735133
+      Pink_10: -1866902767
+      Pink_11: -698031770
+      Pink_12: -996472915
+      Pink_13: 1011685956
+      Pink_14: -171568881
+      Pink_15: 1347574422
+      Pink_2: 275432147
+      Pink_3: -209489549
+      Pink_4: -541075649
+      Pink_5: -1000683584
       Pink_6: -834887169
       Pink_7: -1922073195
+      Pink_8: 1780948796
+      Pink_9: 82084019
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

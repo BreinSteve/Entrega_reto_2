@@ -475,22 +475,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Brown_14: 1976852323
-      Brown_10: -69285803
-      Brown_5: -1712967115
-      Brown_4: -876264806
-      Brown_11: -2007158045
-      Brown_3: 1978930657
-      Brown_7: -1368891511
-      Brown_2: 1376260560
-      Brown_15: -1745339488
-      Brown_12: -1158004788
-      Brown_1: -585548885
-      Brown_8: -457548891
-      Brown_6: -360400188
-      Brown_9: 1263126650
       Brown_0: -1404560348
+      Brown_1: -585548885
+      Brown_10: -69285803
+      Brown_11: -2007158045
+      Brown_12: -1158004788
       Brown_13: 740557784
+      Brown_14: 1976852323
+      Brown_15: -1745339488
+      Brown_2: 1376260560
+      Brown_3: 1978930657
+      Brown_4: -876264806
+      Brown_5: -1712967115
+      Brown_6: -360400188
+      Brown_7: -1368891511
+      Brown_8: -457548891
+      Brown_9: 1263126650
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

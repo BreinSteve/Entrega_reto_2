@@ -475,22 +475,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Yellow_4: -822127178
-      Yellow_9: 785702867
-      Yellow_11: -428398152
-      Yellow_14: 658692205
-      Yellow_10: 1532024309
       Yellow_0: 938904629
-      Yellow_7: -271893201
-      Yellow_5: 401721620
-      Yellow_12: -1812291012
-      Yellow_6: -1113403141
-      Yellow_13: 475030234
-      Yellow_3: -1027568126
       Yellow_1: 1472123232
-      Yellow_2: 1844191312
-      Yellow_8: 590627121
+      Yellow_10: 1532024309
+      Yellow_11: -428398152
+      Yellow_12: -1812291012
+      Yellow_13: 475030234
+      Yellow_14: 658692205
       Yellow_15: -1017952348
+      Yellow_2: 1844191312
+      Yellow_3: -1027568126
+      Yellow_4: -822127178
+      Yellow_5: 401721620
+      Yellow_6: -1113403141
+      Yellow_7: -271893201
+      Yellow_8: 590627121
+      Yellow_9: 785702867
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
