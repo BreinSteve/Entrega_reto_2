@@ -8246,7 +8246,7 @@ GameObject:
   - component: {fileID: 889700116}
   - component: {fileID: 889700115}
   m_Layer: 5
-  m_Name: Menu
+  m_Name: Reto1_entrega
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13307,7 +13307,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Travesia hacia la luminosidad
+  m_text: "Traves\xEDa hacia la luminosidad"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
